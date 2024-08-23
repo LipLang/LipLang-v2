@@ -1,4 +1,6 @@
-## Hi there 👋
+TODO: remove `case`, `while`, and replace with data op.
+
+and more~
 
 <!--
 **LipLang/LipLang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
