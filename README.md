@@ -1,9 +1,8 @@
 # LIP
 ```
 Lisp语言(LISt Processor)等价于在树状列表(而非线性纸带)上的一种图灵机.
-引入整数后, 整个语言可以相应简化, 操作可以更加直接, 思想也可以更加简明.
-将其名为LIP: (List of Integers) Processor.
-进一步引入浮点数后, 可做更多的计算, 足够日常把玩.
+若引入整数, 整个语言可以相应简化, 操作可以更加直接, 思想也可以更加简明.
+故此将整数引入核心语言层, 并命名为LIP: (List of Integers) Processor.
 ```
 
 - `[a]` => `(quote a)`
@@ -37,8 +36,6 @@ Lisp语言(LISt Processor)等价于在树状列表(而非线性纸带)上的一�
 ---
 
 DOING: remove `case`, `while`, and replace with data op.
-
-and more~
 
 <!--
 **LipLang/LipLang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
